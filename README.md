@@ -14,7 +14,7 @@ click "marked as resolved" and commit merge
 click "create pull request", and if everything goes good, you can click the "merge pull request", and "and confirm merge"
 
 Garrett|Jack            |Brayden|Ben|Susannah
-       |Speedy platfomer|       |   |          
+       |Speedy platfomer|       |Game|          
  
 
 
