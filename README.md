@@ -17,9 +17,3 @@ Garrett             |Jack            |Brayden|Ben |Susannah|Snelson
 earls bouncing head |Speedy platfomer|       |Game|        |arcade game
 measure counter game|                |       |    |        |project eular
                     |                |       |    |        |coding train project
- 
-
-
-
-
-g
