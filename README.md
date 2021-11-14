@@ -13,7 +13,9 @@ click "marked as resolved" and commit merge
 
 click "create pull request", and if everything goes good, you can click the "merge pull request", and "and confirm merge"
 
-Garrett             |Jack            |Brayden|Ben |Susannah|Snelson
-earls bouncing head |Speedy platfomer|       |Game|        |arcade game
-measure counter game|                |       |    |        |project eular
-                    |                |       |    |        |coding train project
+Garrett               |Jack              |Brayden|Ben   |Susannah|Snelson
+earls bouncing head 0 |Speedy platfomer 0|       |Game 0|        |arcade game 1
+measure counter game 0|                  |       |      |        |project eular 0
+                      |                  |       |      |        |coding train project 0
+
+to make a vote change the number on the side of the idea, 96 hours left to vote (4 days)
