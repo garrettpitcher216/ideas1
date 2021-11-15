@@ -14,7 +14,7 @@ click "marked as resolved" and commit merge
 click "create pull request", and if everything goes good, you can click the "merge pull request", and "and confirm merge"
 
 Garrett               |Jack              |Brayden|Ben   |Susannah|Snelson
-earls bouncing head 0 |Speedy platfomer 0|       |Game 0|        |arcade game 1
+earls bouncing head 0 |Speedy platfomer 1|       |Game 0|        |arcade game 2
 measure counter game 0|                  |       |      |        |project eular 0
                       |                  |       |      |        |coding train project 0
 
