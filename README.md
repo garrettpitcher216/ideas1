@@ -15,7 +15,7 @@ click "create pull request", and if everything goes good, you can click the "mer
 
 Garrett               |Jack              |Brayden|Ben   |Susannah|Snelson
 earls bouncing head 0 |Speedy platfomer 1|       |Game 0|        |arcade game 2
-measure counter game 0|                  |       |      |        |project eular 1
+measure counter game 0|                  |       |      |        |project eular 1 
                       |                  |       |      |        |coding train project 0
 
 to make a vote change the number on the side of the idea, 48 hours left to vote (2 days)
