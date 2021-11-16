@@ -18,4 +18,4 @@ earls bouncing head 0 |Speedy platfomer 1|       |Game 0|        |arcade game 2
 measure counter game 0|                  |       |      |        |project eular 0
                       |                  |       |      |        |coding train project 0
 
-to make a vote change the number on the side of the idea, 96 hours left to vote (4 days)
+to make a vote change the number on the side of the idea, 48 hours left to vote (2 days)
